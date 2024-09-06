@@ -1,2 +1,1 @@
-# Base-de-Datos-1
-Sentencias básicas de Bases de Datos
+Acá estoy usando sentencias básicas de Bases de Datos
